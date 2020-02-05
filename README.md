@@ -1,2 +1,2 @@
 # hello-world
-print"呵呵"
+项目描述
